@@ -4,7 +4,6 @@ OpenCVTest/opencv_world343d.dll
 OpenCVTest.sln
 *.opendb
 *.suo
-
 *.db
 .vs/OpenCVTest/v15/.suo
 .vs/OpenCVTest/v15/Browse.VC.db
