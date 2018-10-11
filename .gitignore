@@ -3,3 +3,4 @@ OpenCVTest/opencv_world343.dll
 OpenCVTest/opencv_world343d.dll
 OpenCVTest.sln
 *.opendb
+.vs/OpenCVTest/v15/.suo
