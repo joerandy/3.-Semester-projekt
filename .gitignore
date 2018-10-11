@@ -2,3 +2,4 @@ OpenCVTest/opencv_ffmpeg343_64.dll
 OpenCVTest/opencv_world343.dll
 OpenCVTest/opencv_world343d.dll
 OpenCVTest.sln
+*.opendb
